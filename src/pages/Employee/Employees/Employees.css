@@ -1,0 +1,61 @@
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 80%;
+    background-color: #fff
+}
+
+
+
+.topnav__search {
+    position: relative;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    
+}
+
+.topnav__search > input {
+    height: 100%;
+    width: 100%;
+    padding: 10px 60px 10px 20px;
+    font-size: 1rem;
+    border-radius: var(--border-radius);
+    color: var(--txt-color);
+}
+
+.topnav__search > i {
+    font-size: 1.5rem;
+    position: absolute;
+    right: 20px;
+}
+
+
+
+
+/* /////////////dashboard */
+.point
+{
+    cursor: pointer
+}
+.upiconAD{
+    color: rgb(238, 154, 28);
+}
+.upiconAD:hover{
+    color: rgb(207, 100, 0);
+}
+.upiconED{
+    color: rgb(96, 212, 0);
+}
+.upiconED:hover{
+    color: rgb(13, 116, 0);
+}
+
+.filestyle{
+    border:1 solid rgb(255, 255, 255);
+    width:80px;
+    overflow: hidden;
+    }

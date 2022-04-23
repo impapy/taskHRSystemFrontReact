@@ -1,0 +1,26 @@
+
+
+.icons i {
+    margin-left: 20px
+}
+
+.delicon:hover{
+color: red;
+cursor: pointer
+}
+.upicon:hover{
+    color:#F79D17;
+}
+
+.delicon{
+    color:#F79D17;
+    display: inline-block
+
+}
+.upicon{
+    color:#F79D17;
+    display: inline-block
+}
+
+
+    
